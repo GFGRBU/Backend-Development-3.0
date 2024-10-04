@@ -1,4 +1,4 @@
-# Contributing to [Your Backend Project Name]
+# Contributing to Backend-Development-3.0
 
 Thank you for your interest in contributing to **Git For Geeks Backend-Development-3.0**! We welcome contributions from developers of all skill levels. This guide will help you get started and contribute effectively.
 
@@ -14,7 +14,7 @@ There are many ways to contribute to the project:
 - **Improving Documentation**: Enhance the existing documentation or create new sections.
 - **Tests**: Improve code coverage by writing unit/integration tests.
 
-Please check the [issue tracker](link_to_issue_tracker) for issues tagged with:
+Please check the [issue tracker](https://github.com/GFGRBU/Backend-Development-3.0/issues) for issues tagged with:
 - `good first issue`: Great for beginners!
 - `help wanted`: Issues where we need assistance.
 - `feature`: Requests for new features.
@@ -119,7 +119,7 @@ Follow the steps below to set up the project locally and start contributing:
 
 ## Reporting Issues
 
-If you encounter bugs, please feel free to [open an issue](link_to_issue_tracker). When submitting an issue, please include:
+If you encounter bugs, please feel free to [open an issue](https://github.com/GFGRBU/Backend-Development-3.0/issues). When submitting an issue, please include:
 - A clear description of the issue.
 - Steps to reproduce the problem.
 - Any relevant logs or screenshots.
@@ -134,6 +134,6 @@ We expect all contributors to adhere to our [Code of Conduct](link_to_code_of_co
 
 ## Need Help?
 
-If you need any help or clarification, feel free to open an issue, ask on our [discussion board](link_to_discussion_board), or reach out to the maintainers directly.
+If you need any help or clarification, feel free to open an issue, ask on our [WhatsApp Group], or reach out to the maintainers directly.
 
 Thank you for contributing! 🎉
